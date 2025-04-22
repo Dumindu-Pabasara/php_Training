@@ -31,9 +31,15 @@
     
     //3rd question
     $var1 = "Dumindu";
-    $var2 = "Pabasara";
+    $var2 = " Pabasara";
     $var3 = $var1.$var2;
-    echo $var1.$var2;
+    echo "<br>".$var1.$var2."<br>";
+
+    //Function
+    echo strlen("Hello world")."<br>";
+    echo str_word_count("Hello World")."<br>";
+    echo sin(90)."<br>";
+    echo cos(90)."<br>";
 ?>
 
 </body>
