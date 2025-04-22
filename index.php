@@ -40,6 +40,16 @@
     echo str_word_count("Hello World")."<br>";
     echo sin(90)."<br>";
     echo cos(90)."<br>";
+
+    //Data Types
+    $String = "Kamal"."<br>";
+    $int = 254 ."<br>";
+    $float = 25.25 ."<br>";
+    echo $String.$int.$float ."<br>";
+
+    //Array
+    $myArray = array('DTK','TV','Dumindu');
+    echo $myArray[0];
 ?>
 
 </body>
