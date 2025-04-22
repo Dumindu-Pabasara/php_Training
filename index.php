@@ -22,9 +22,7 @@
     $my_name = "Dumindu";
     echo $my_name;
 
-    //Assigning value into variable
-    $my_name1 = $_GET['userchannel'];
-    echo $my_name1. " is a supper ";
+    
     
     //This is the single line comment
     /*This is multiline comment*/
