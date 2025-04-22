@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo"Dumindu" ?></title>
+    <title><?php $variable = "DTK TV"; echo $variable ?></title>
 </head>
 <body>
     <form >
@@ -24,11 +24,16 @@
 
     //Assigning value into variable
     $my_name1 = $_GET['userchannel'];
-    echo $my_name1. " is a supper";
+    echo $my_name1. " is a supper ";
     
     //This is the single line comment
     /*This is multiline comment*/
     
+    //3rd question
+    $var1 = "Dumindu";
+    $var2 = "Pabasara";
+    $var3 = $var1.$var2;
+    echo $var1.$var2;
 ?>
 
 </body>
