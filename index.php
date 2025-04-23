@@ -51,13 +51,6 @@
     $myArray = array('DTK','TV','Dumindu');
     echo $myArray[0];
 
-    //Arithmatic Operators
-    echo 10+25 ."<br>";
-    echo 25-8 ."<br>";
-    echo 10*10 ."<br>";
-    echo 52/2 ."<br>";
-    echo 12%10 ."<br>";
-    echo 10**10;
 
     //Assinemnt Openator
     $x = 5;
