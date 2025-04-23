@@ -58,6 +58,10 @@
     echo 52/2 ."<br>";
     echo 12%10 ."<br>";
     echo 10**10;
+
+    //Assinemnt Openator
+    $x = 5;
+    $x = $x*5
 ?>
 
 </body>
