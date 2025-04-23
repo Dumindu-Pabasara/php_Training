@@ -22,7 +22,9 @@
     $my_name = "Dumindu";
     echo $my_name;
 
-    
+    //Assigning value into variable
+    $my_name1 = $_GET['userchannel'];
+    echo $my_name1. " is a supper ";
     
     //This is the single line comment
     /*This is multiline comment*/
@@ -48,6 +50,14 @@
     //Array
     $myArray = array('DTK','TV','Dumindu');
     echo $myArray[0];
+
+    //Arithmatic Operators
+    echo 10+25 ."<br>";
+    echo 25-8 ."<br>";
+    echo 10*10 ."<br>";
+    echo 52/2 ."<br>";
+    echo 12%10 ."<br>";
+    echo 10**10;
 ?>
 
 </body>
