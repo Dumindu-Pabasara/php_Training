@@ -29,7 +29,11 @@
     //This is the single line comment
     /*This is multiline comment*/
     
-    
+    //3rd question
+    $var1 = "Dumindu";
+    $var2 = " Pabasara";
+    $var3 = $var1.$var2;
+    echo "<br>".$var1.$var2."<br>";
 
     //Function
     echo strlen("Hello world")."<br>";
