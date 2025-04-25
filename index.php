@@ -14,6 +14,13 @@
 
 <?php
     
+    echo("Hello Dumindu!!!");
+    echo 125;
+    echo 45+5;
+
+    //variable declaration
+    $my_name = "Dumindu";
+    echo $my_name;
 
     //Assigning value into variable
     $my_name1 = $_GET['userchannel'];
