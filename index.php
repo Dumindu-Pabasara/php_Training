@@ -35,11 +35,7 @@
     $var3 = $var1.$var2;
     echo "<br>".$var1.$var2."<br>";
 
-    //Function
-    echo strlen("Hello world")."<br>";
-    echo str_word_count("Hello World")."<br>";
-    echo sin(90)."<br>";
-    echo cos(90)."<br>";
+    
 
     //Data Types
     $String = "Kamal"."<br>";
