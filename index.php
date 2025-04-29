@@ -24,7 +24,7 @@
 
     //Assigning value into variable
     $my_name1 = $_GET['userchannel'];
-    echo $my_name1. " is a supper ";
+    echo $my_name1. " is a supper boy ";
     
     //This is the single line comment
     /*This is multiline comment*/
