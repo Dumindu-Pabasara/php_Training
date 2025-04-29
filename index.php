@@ -14,8 +14,8 @@
 
 <?php
     
-    echo("Hello Dumindu!!!");
-    echo 125;
+    echo("Hello Pabasara!!!");
+    echo 123;
     echo 45+5;
 
     //variable declaration
