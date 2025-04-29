@@ -47,9 +47,7 @@
     $float = 25.25 ."<br>";
     echo $String.$int.$float ."<br>";
 
-    //Array
-    $myArray = array('DTK','TV','Dumindu');
-    echo $myArray[0];
+    
 
     //Arithmatic Operators
     echo 10+25 ."<br>";
