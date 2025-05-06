@@ -89,11 +89,18 @@
      $x=15;
      $y=16;
      if($x<$y || $x==$y){ //|| means or && means and
-        echo ".<br>.Correct";
+        echo "<br>Correct";
      }else{
-        echo ".<br>.Wrong";
+        echo "<br>Wrong";
      }
 
+     $x = array("a" => "apple", "b" => "ball");
+     $y = array("r" => "red", "g" => "green");
+     if($x == $y){
+        echo "Correct";// check the key valu pairs.
+     }else{    //a is key name and apple is key value
+        echo "<br>Wrong";
+     }
 ?>
 
 </body>
