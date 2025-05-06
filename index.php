@@ -82,6 +82,17 @@
     // dislply the 1 and is it small display the -1. Is both variables
     // are similar then display the 0.
 
+     $a=15;
+     echo ++$a;//increase the value of a before print. So the out put is 16
+     echo $a++; //increase the value of a after print. So the out put is 15
+
+     $x=15;
+     $y=16;
+     if($x<$y || $x==$y){ //|| means or && means and
+        echo ".<br>.Correct";
+     }else{
+        echo ".<br>.Wrong";
+     }
 
 ?>
 
