@@ -72,7 +72,13 @@
     //  }
     //  ===(copare the equal with variable type and variable)
     // !==(compare the not equal with variable type and variable)
-    
+    // < (check the size of variables)
+
+    //spaceship <=> -1 , 0 , 1
+    // $myvar1 = 5;
+    // $myvar2 = 5;
+    // echo ($myvar1 <=> $myvar2); if the var1 is large more than var 2
+    // dislply the 1 and is it small display the -1.
 ?>
 
 </body>
