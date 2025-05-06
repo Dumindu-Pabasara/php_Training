@@ -61,15 +61,16 @@
 
     //Assinemnt Openator
     $x = 5;
-    $x = $x*5
+    $x = $x*5;
 
-    // $x = "5";
-    // $Var2 = 10;
-    //  if($x == $Var2){
-    //     echo "Correct";
-    //  }else{
-    //     echo "Wrong";
-    //  }
+    
+    $var1 = "5";
+    $var2 = 10;
+     if($var1 == $var2){
+        echo ".<br>.Correct";
+     }else{
+        echo ".<br>.Wrong";
+     }
     //  ===(copare the equal with variable type and variable)
     // !==(compare the not equal with variable type and variable)
     // < (check the size of variables)
@@ -78,7 +79,10 @@
     // $myvar1 = 5;
     // $myvar2 = 5;
     // echo ($myvar1 <=> $myvar2); if the var1 is large more than var 2
-    // dislply the 1 and is it small display the -1.
+    // dislply the 1 and is it small display the -1. Is both variables
+    // are similar then display the 0.
+
+
 ?>
 
 </body>
