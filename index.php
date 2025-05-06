@@ -62,6 +62,17 @@
     //Assinemnt Openator
     $x = 5;
     $x = $x*5
+
+    // $x = "5";
+    // $Var2 = 10;
+    //  if($x == $Var2){
+    //     echo "Correct";
+    //  }else{
+    //     echo "Wrong";
+    //  }
+    //  ===(copare the equal with variable type and variable)
+    // !==(compare the not equal with variable type and variable)
+    
 ?>
 
 </body>
