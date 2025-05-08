@@ -123,9 +123,15 @@
             echo "Input value is 10";
             break;
       default:
-            echo "Input value is not here"
+            echo "Input value is not here";
      }
 
+     //While Loops
+     $x = 0;
+     while($x<=10){
+      echo ("Dumindu <br>");
+      $x++;
+     }
 ?>
 
 </body>
