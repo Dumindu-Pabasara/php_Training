@@ -65,12 +65,7 @@
     $x = $x*5;
 
     
-    $var1 = "5";
-    $var2 = 10;
-     if($var1 == $var2){
-        echo ".<br>.Correct";
-     }else{
-        echo ".<br>.Wrong";
+    
      }
     //  ===(copare the equal with variable type and variable)
     // !==(compare the not equal with variable type and variable)
