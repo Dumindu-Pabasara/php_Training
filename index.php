@@ -42,20 +42,17 @@
     echo sin(90)."<br>";
     echo cos(90)."<br>";
 
-    
+    //Data Types
+    $String = "Kamal"."<br>";
+    $int = 254 ."<br>";
+    $float = 25.25 ."<br>";
+    echo $String.$int.$float ."<br>";
 
     //Array
     $myArray = array('DTK','TV','Dumindu');
     echo $myArray[0];
 
-    //Arithmatic Operators
-    echo 10+25 ."<br>";
-    echo 25-8 ."<br>";
-    echo 10*10 ."<br>";
-    echo 52/2 ."<br>";
-    echo 12%10 ."<br>";
-    echo 10**10;
-
+    
     //Assinemnt Openator
     $x = 5;
     $x = $x*5;
