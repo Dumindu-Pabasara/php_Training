@@ -27,15 +27,7 @@
     $my_name1 = $_GET['userchannel'];
     echo $my_name1. " is a supper boy ";
     
-    //This is the single line comment
-    /*This is multiline comment*/
     
-    //3rd question
-    $var1 = "Dumindu";
-    $var2 = " Pabasara";
-    $var3 = $var1.$var2;
-    echo "<br>".$var1.$var2."<br>";
-
     //Function
     echo strlen("Hello world")."<br>";
     echo str_word_count("Hello World")."<br>";
