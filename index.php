@@ -7,6 +7,10 @@
 </head>
 <body>
 <form >
+   <input type="text" name="userchannel">
+        <button>Submit</button>
+    </form>    
+    <h1><?php echo"Dumindu Pabasara" ?></h1>
         
 
 <?php
