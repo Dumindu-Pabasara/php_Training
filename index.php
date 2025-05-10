@@ -95,13 +95,6 @@
        echo "<br>Wrong";
     }
 
-     $x = array("a" => "apple", "b" => "ball");
-     $y = array("r" => "red", "g" => "green");
-     if($x == $y){
-        echo "Correct";// check the key valu pairs.
-     }else{    //a is key name and apple is key value
-        echo "<br>Wrong";
-     }
 
      $x = 10;
      if($x == 10){
