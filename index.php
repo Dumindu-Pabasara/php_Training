@@ -112,20 +112,7 @@
       echo "Wrong";
      }
 
-     //switch statement
-     switch($x){
-      case 5:
-         echo "Input value is 5";
-         break;
-      case 15:
-            echo "Input value is 15";
-            break;
-      case 10:
-            echo "Input value is 10";
-            break;
-      default:
-            echo "Input value is not here";
-     }
+
 
      //While Loops
      $x = 0;
