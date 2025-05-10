@@ -127,12 +127,7 @@
             echo "Input value is not here";
      }
 
-     //While Loops
-     $x = 0;
-     while($x<=10){
-      echo ("Dumindu <br>");
-      $x++;
-     }
+
 
      //Do While
      $x =10;
