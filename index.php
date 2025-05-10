@@ -103,7 +103,14 @@
         echo "<br>Wrong";
      }
 
-
+     $x = 10;
+     if($x == 10){
+      echo "Corretc";
+     }elseif ($x == 15){
+      echo "Output is 15";
+     }else{
+      echo "Wrong";
+     }
 
      //switch statement
      switch($x){
