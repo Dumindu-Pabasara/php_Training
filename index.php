@@ -134,7 +134,17 @@
       $x++;
      }
 
+     //Do While
+     $x =10;
+     do{
+      echo "Pabasara";
+      $x=$x-5;
+     }while($x>=10);
 
+     //for loop
+     for($i=0 ; $i<=5 ; $i++){
+      echo "Dumindu";
+     }
 ?>
 
 </body>
